@@ -1,0 +1,12 @@
+name: Julianna Munoz
+avatar: "https://github.com/julictrl.png" # or any avatar URL
+bio: "eecs at UC Berkeley!"
+location: "Pasadena, US"
+isElevenLabs: false # Set to true if you work at ElevenLabs
+socials:
+  - label: X
+    url: "https://x.com/yourusername"
+  - label: GitHub
+    url: "https://github.com/juli"
+  - label: LinkedIn
+    url: "www.linkedin.com/in/julianna-munoz-6bb4183b8" # Optional
